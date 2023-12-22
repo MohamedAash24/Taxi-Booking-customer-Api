@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.taxibooking_customer_api.TaxiBookingCustomerApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 57.997 s - in com.example.taxibooking_customer_api.TaxiBookingCustomerApiApplicationTests
